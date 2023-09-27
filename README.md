@@ -29,10 +29,7 @@ if __name__ == '__main__':
     arr = map(int, input().split())
 ```
 ## Solution 
-```
-if __name__ == '__main__':
-    n = int(input())
-    arr = map(int, input().split())
+```python
     arr = list(arr)
     a = []
     for x in arr:
