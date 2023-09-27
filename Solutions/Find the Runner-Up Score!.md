@@ -1,5 +1,3 @@
-# Hackerrank_Python_Solutions
-HackerRank Python solutions
 
 # Find the Runner-Up Score!
 ## Problem
